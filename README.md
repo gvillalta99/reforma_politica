@@ -33,7 +33,7 @@ nossa democracia melhore, uma maneira de fazermos isso é
 espalhar as votações ao longo dos anos, por exemplos:
 
 |Ano  |Semestre |Cargo                                |
-|=====|=========|=====================================|
+|-----|---------|-------------------------------------|
 |1    |1        |Senador e Deputado Federal/Distrital |
 |1    |2        |Presidente                           |
 |2    |1        |Deputado Estadual                    |
@@ -113,5 +113,7 @@ como a política será feita e evita políticos com dezenas de
 anos no cargo.
 
 Além disso, essa medida privilegia a construção de projetos
-políticos,
+políticos, ao invés de carreiras políticas, dessa forma os
+políticos devem se preparar para voltarem a suas atividades
+normais, reintegrando-se a sociedade.
 
